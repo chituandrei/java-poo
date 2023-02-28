@@ -1,0 +1,317 @@
+2
+FullCourse
+BestPartialScore
+Programare_Orientata_Pe_Obiecte
+Ion
+Mihalache
+2
+Alexandra
+Maria
+Andrei
+Georgescu
+2
+321CC
+Andrei
+Georgescu
+5
+Gigel
+Frone
+2
+m
+Maria
+Frone
+f
+Daniel
+Frone
+Cosmin
+Andrei
+1
+f
+Vasile
+Andrei
+Ionel
+Dragomir
+1
+m
+Letitia
+Dragomir
+Florin
+Florea
+2
+m
+Adriana
+Florea
+f
+Catalin
+Florea
+Costel
+Busuioc
+2
+m
+Carmen
+Busuioc
+f
+Nelu
+Busuioc
+314CC
+Alexandra
+Maria
+5
+Sebastian
+Moisescu
+2
+m
+Viorela
+Moisescu
+f
+Ionut
+Moisescu
+Larisa
+Oana
+1
+f
+Alecu
+Oana
+Georgiana
+Calin
+1
+m
+Lidia
+Calin
+Dragos
+Barbu
+2
+m
+Anastasia
+Barbu
+f
+Lucian
+Barbu
+Alberto
+Ciobanu
+2
+m
+Mihaela
+Ciobanu
+f
+Emil
+Ciobanu
+PartialCourse
+BestExamScore
+Paradigme_De_Programare
+Sonia
+Lupu
+2
+Florentina
+Bratosin
+Horia
+Ghita
+2
+312CC
+Florentina
+Bratosin
+5
+Gigel
+Frone
+2
+m
+Maria
+Frone
+f
+Daniel
+Frone
+Cosmin
+Andrei
+1
+f
+Vasile
+Andrei
+Ionel
+Dragomir
+1
+m
+Letitia
+Dragomir
+Florin
+Florea
+2
+m
+Adriana
+Florea
+f
+Catalin
+Florea
+Costel
+Busuioc
+2
+m
+Carmen
+Busuioc
+f
+Nelu
+Busuioc
+314CC
+Horia
+Ghita
+5
+Sebastian
+Moisescu
+2
+m
+Viorela
+Moisescu
+f
+Ionut
+Moisescu
+Larisa
+Oana
+1
+f
+Alecu
+Oana
+Georgiana
+Calin
+1
+m
+Lidia
+Calin
+Dragos
+Barbu
+2
+m
+Anastasia
+Barbu
+f
+Lucian
+Barbu
+Alberto
+Ciobanu
+2
+m
+Mihaela
+Ciobanu
+f
+Emil
+Ciobanu
+20
+Ionel Dragomir
+Programare_Orientata_Pe_Obiecte
+2.35
+Gigel Frone
+Programare_Orientata_Pe_Obiecte
+1.2
+Costel Busuioc
+Programare_Orientata_Pe_Obiecte
+1.6
+Florin Florea
+Programare_Orientata_Pe_Obiecte
+4.1
+Cosmin Andrei
+Programare_Orientata_Pe_Obiecte
+3.35
+Sebastian Moisescu
+Programare_Orientata_Pe_Obiecte
+0.85
+Larisa Oana
+Programare_Orientata_Pe_Obiecte
+1.5
+Georgiana Calin
+Programare_Orientata_Pe_Obiecte
+3.75
+Dragos Barbu
+Programare_Orientata_Pe_Obiecte
+5
+Alberto Ciobanu
+Programare_Orientata_Pe_Obiecte
+3.25
+Ionel Dragomir
+Paradigme_De_Programare
+1.15
+Gigel Frone
+Paradigme_De_Programare
+3.7
+Costel Busuioc
+Paradigme_De_Programare
+4
+Florin Florea
+Paradigme_De_Programare
+2.35
+Cosmin Andrei
+Paradigme_De_Programare
+2.9
+Sebastian Moisescu
+Paradigme_De_Programare
+1.75
+Larisa Oana
+Paradigme_De_Programare
+2.25
+Georgiana Calin
+Paradigme_De_Programare
+4.2
+Dragos Barbu
+Paradigme_De_Programare
+3.6
+Alberto Ciobanu
+Paradigme_De_Programare
+1.95
+19
+Ionel Dragomir
+Programare_Orientata_Pe_Obiecte
+3.4
+Gigel Frone
+Programare_Orientata_Pe_Obiecte
+2.75
+Costel Busuioc
+Programare_Orientata_Pe_Obiecte
+3.5
+Florin Florea
+Programare_Orientata_Pe_Obiecte
+4.85
+Cosmin Andrei
+Programare_Orientata_Pe_Obiecte
+2.35
+Sebastian Moisescu
+Programare_Orientata_Pe_Obiecte
+2.15
+Larisa Oana
+Programare_Orientata_Pe_Obiecte
+0.4
+Georgiana Calin
+Programare_Orientata_Pe_Obiecte
+3.65
+Dragos Barbu
+Programare_Orientata_Pe_Obiecte
+4.9
+Alberto Ciobanu
+Programare_Orientata_Pe_Obiecte
+2.1
+Ionel Dragomir
+Paradigme_De_Programare
+4.35
+Gigel Frone
+Paradigme_De_Programare
+1.25
+Costel Busuioc
+Paradigme_De_Programare
+4.65
+Florin Florea
+Paradigme_De_Programare
+2.1
+Cosmin Andrei
+Paradigme_De_Programare
+3.4
+Sebastian Moisescu
+Paradigme_De_Programare
+0.7
+Larisa Oana
+Paradigme_De_Programare
+3.25
+Georgiana Calin
+Paradigme_De_Programare
+2.45
+Dragos Barbu
+Paradigme_De_Programare
+4.25
+Alberto Ciobanu
+Paradigme_De_Programare
+1.3
